@@ -26,7 +26,7 @@ This project is a high-performance, multithreaded HTTP server written in C. It l
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:rajatmaheshwari17/multithreaded-httpserver.git
    cd multithreaded-httpserver
    ```
 
